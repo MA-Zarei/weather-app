@@ -1,0 +1,9 @@
+Open Weather:
+b520176d65ff9c36b68f86ed7d1dd645
+
+ipgeolocation:
+3e70e6040e3145bbbb1fe1344996b3d2
+
+
+lon: -0.1257
+lat: 51.5085
